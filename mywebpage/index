@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My First Webpage</title>
+	<meta charset="UTF-8">
+	<meta name="description" content ="this is all about me .">
+</head>
+<body style="background-color:lightblue;" >
+<h1>Hi</h1>
+
+<p>Welcome to <em> brand </em> new website.this site will be my<strong> new </strong> home.</p>
+<p style="color:red;">Fun begins here.</p>
+<img src="testpic.png" alt= "juest to test" usemap="#workmap>
+
+<a href="https://www.gmail.com">Visit Gmail</a>
+
+<p>This page will have the following advantages for the program</p>
+<ul>
+<li>Immense outreach</li>
+<li>Huge Opportunities</li>
+</ul>
+<table>
+<tr>
+<td>row 1 - column1</td>
+<td>row 1 - column2</td>
+</tr>
+<tr>
+<td>row2 - column 1</td>
+<td>row2 - column 2</td>
+</tr>
+</table>
+<h3> Restaurant Menu </h3>
+<ul style="list-style:square;">
+	<li>Coffee</li>
+	<li>Sandwich</li>
+</ul>
+</body>
+</html>
